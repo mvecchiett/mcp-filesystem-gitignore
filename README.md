@@ -90,7 +90,7 @@ Cuando Claude trabaja con proyectos que tienen `venv/`, `node_modules/`, o `.git
 ## 📋 Requisitos
 
 - Python 3.10+
-- Claude Desktop o cualquier cliente MCP
+- Compatible con clientes MCP como Claude Desktop, Zed, Sourcegraph Cody y otros que implementen el estándar Model Context Protocol.
 
 ## 🚀 Instalación Rápida
 

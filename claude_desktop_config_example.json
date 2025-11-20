@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "filesystem-gitignore": {
+      "command": "C:\\venvs\\mcp_filesystem\\Scripts\\python.exe",
+      "args": [
+        "C:\\DesarrolloPython\\MCP FileSystem\\server.py"
+      ],
+      "env": {
+        "ALLOWED_DIRECTORIES": "C:\\DesarrolloPython;C:\\Users\\TuUsuario\\Documents;C:\\Proyectos"
+      }
+    }
+  }
+}
